@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', sans-serif;
+    font-family: "Supermercado One", sans-serif;
     background: linear-gradient(135deg, #fdf2f8, #f3e8ff);
     color: black;
     display: flex;
@@ -39,7 +39,7 @@ header::before {
     display: flex;
     align-items: center;
     gap: 20px;
-    flex-wrap: wrap; /* 🔥 clave */
+    flex-wrap: wrap; 
     justify-content: center;
     text-align: center;
 }
@@ -61,7 +61,7 @@ header::before {
 
 h1 {
     font-size: 34px;
-    font-family: "Diplomata", serif;
+    font-family: "Luckiest Guy", serif;
     color: #ec4899;
 }
 
